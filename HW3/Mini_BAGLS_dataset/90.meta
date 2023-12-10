@@ -1,0 +1,17 @@
+{
+    "Video Id": 346,
+    "Camera": "HERS 5562 Endocam Wolf",
+    "Sampling rate (Hz)": 4000,
+    "Video resolution (px, HxW)": [
+        256,
+        256
+    ],
+    "Color": false,
+    "Endoscope orientation": "90\u00b0",
+    "Endoscope application": "oral",
+    "Age range (yrs)": "60-70",
+    "Subject sex": "w",
+    "Subject disorder status": "Muscle tension dysphonia with M. thyroarythaenoideus atrophy",
+    "Segmenter": 0,
+    "Post-processed": 1
+}

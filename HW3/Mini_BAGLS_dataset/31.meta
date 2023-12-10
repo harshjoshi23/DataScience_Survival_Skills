@@ -1,0 +1,17 @@
+{
+    "Video Id": 165,
+    "Camera": "KayPentax HSV 9710 (Photron)",
+    "Sampling rate (Hz)": 4000,
+    "Video resolution (px, HxW)": [
+        320,
+        256
+    ],
+    "Color": false,
+    "Endoscope orientation": "70\u00b0",
+    "Endoscope application": "oral",
+    "Age range (yrs)": "20-30",
+    "Subject sex": "W",
+    "Subject disorder status": "None (half year after diagnosis of small vocal nodules)",
+    "Segmenter": 1,
+    "Post-processed": 2
+}

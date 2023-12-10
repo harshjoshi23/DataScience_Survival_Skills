@@ -1,0 +1,17 @@
+{
+    "Video Id": 388,
+    "Camera": "KayPentax HSV 9710 (Photron)",
+    "Sampling rate (Hz)": 4000,
+    "Video resolution (px, HxW)": [
+        512,
+        256
+    ],
+    "Color": false,
+    "Endoscope orientation": "70\u00b0",
+    "Endoscope application": "oral",
+    "Age range (yrs)": "20-30",
+    "Subject sex": "m",
+    "Subject disorder status": "healthy",
+    "Segmenter": 0,
+    "Post-processed": 2
+}

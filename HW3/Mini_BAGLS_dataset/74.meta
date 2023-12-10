@@ -1,0 +1,17 @@
+{
+    "Video Id": 131,
+    "Camera": "Phantom v210",
+    "Sampling rate (Hz)": 3000,
+    "Video resolution (px, HxW)": [
+        352,
+        208
+    ],
+    "Color": false,
+    "Endoscope orientation": null,
+    "Endoscope application": "",
+    "Age range (yrs)": "",
+    "Subject sex": "",
+    "Subject disorder status": "",
+    "Segmenter": 1,
+    "Post-processed": 2
+}

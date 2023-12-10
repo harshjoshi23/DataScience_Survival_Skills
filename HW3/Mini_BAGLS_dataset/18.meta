@@ -1,0 +1,17 @@
+{
+    "Video Id": 73,
+    "Camera": "KayPentax HSV 9710 (Photron)",
+    "Sampling rate (Hz)": 4000,
+    "Video resolution (px, HxW)": [
+        512,
+        256
+    ],
+    "Color": false,
+    "Endoscope orientation": "70\u00b0",
+    "Endoscope application": "oral",
+    "Age range (yrs)": "70-80",
+    "Subject sex": "m",
+    "Subject disorder status": "Vocal insufficiency and M. thyroarythaenoideus atrophy",
+    "Segmenter": 0,
+    "Post-processed": 2
+}
