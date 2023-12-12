@@ -1,0 +1,17 @@
+{
+    "Video Id": 605,
+    "Camera": "HERS 5562 Endocam Wolf",
+    "Sampling rate (Hz)": 4000,
+    "Video resolution (px, HxW)": [
+        256,
+        256
+    ],
+    "Color": false,
+    "Endoscope orientation": "70\u00b0",
+    "Endoscope application": "oral",
+    "Age range (yrs)": "30-40",
+    "Subject sex": "w",
+    "Subject disorder status": "Polyp",
+    "Segmenter": 1,
+    "Post-processed": 2
+}
