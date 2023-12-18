@@ -1,5 +1,30 @@
 source /home/harsh/WS2023/DSS/HW4/dss-env/bin/activate
 
+
+
+It looks like there's an issue with the pipenv lock -r command. The -r option should work with pipenv lock to generate a requirements.txt file. However, if it's not working as expected, you might be facing a version-specific issue or a bug in pipenv.
+
+Let's try a different approach to generate the requirements.txt file:
+
+Alternate Method: Using Pipenv run
+Activate Your Pipenv Shell:
+First, ensure you are in the pipenv shell. If you are not, activate it with:
+
+bash
+Copy code
+pipenv shell
+Generate the requirements.txt File:
+Use pip freeze within the pipenv environment to generate a requirements.txt file. This can be done by running:
+
+bash
+Copy code
+pipenv run pip freeze > requirements_Dss.txt
+This command uses pip freeze, which lists all installed packages in the current environment, and redirects the output to requirements_Dss.txt.
+
+Verify the File:
+Check the contents of requirements_Dss.txt to ensure it contains the list of your installed packages.
+
+
 Setup the pip package manager
 Check to see if your Python installation has pip. Enter the following in your terminal:
 
